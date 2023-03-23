@@ -1,6 +1,6 @@
-Title: Sales Data Analysis and Visualization
+## Sales Data Analysis and Visualization
 
-Overview:
+### Overview
 In this project, we will be analyzing and visualizing sales data to gain insights into customer behavior, product performance, and sales trends. We will be using Python and its data analysis libraries to clean, explore, and visualize the data. The main goal of the project is to provide insights into the following questions:
 
   1. Which location has highest and lowest sales? Represent the sales on a barchart, also show the market share for each location using a pie chart.
@@ -15,8 +15,8 @@ In this project, we will be analyzing and visualizing sales data to gain insight
   10. Which product line is popular among men and women?
   11. Which month makes more sales?
     
-Data:
-The dataset used in this project is a fictional sales dataset that includes information on products, customers and sales. It contains the following columns:
+### Data
+The dataset used in this project is a sales dataset that includes information on products, customers and sales. It contains the following columns:
   * Invoice ID 	
   * Date
   * Time
